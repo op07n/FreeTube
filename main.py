@@ -197,4 +197,4 @@ def error500(e):
 def konami():
     return 'var allowedKeys={37:"left",38:"up",39:"right",40:"down",65:"a",66:"b"},konamiCode=["up","up","down","down","left","right","left","right","b","a"],konamiCodePosition=0;document.addEventListener("keydown",function(o){allowedKeys[o.keyCode]==konamiCode[konamiCodePosition]?++konamiCodePosition==konamiCode.length&&(konamiComplete(),konamiCodePosition=0):konamiCodePosition=0});'
 
-app.run(host='0.0.0.0', port=8080)
+app.run(port=5030)
