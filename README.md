@@ -1,5 +1,9 @@
 Duplicate of https://github.com/w-henderson/FreeTube
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/op07n/FreeTube/master?urlpath=/proxy/5030/)
+
+2DHM
+
 ![FreeTube Banner](images/banner.png)
 
 # FreeTube
