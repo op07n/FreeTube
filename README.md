@@ -1,3 +1,5 @@
+Duplicate of https://github.com/w-henderson/FreeTube
+
 ![FreeTube Banner](images/banner.png)
 
 # FreeTube
