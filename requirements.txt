@@ -1,5 +1,7 @@
+python=3.6.8
 youtube_dl
 pafy
 requests
 flask
 bs4
+nbserverproxy
