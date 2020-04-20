@@ -5,6 +5,7 @@ Duplicate of https://github.com/w-henderson/FreeTube
 2DHM
 
 ![FreeTube Banner](images/banner.png)
+[![Run on Repl.it](https://repl.it/badge/github/w-henderson/FreeTube)](https://repl.it/github/w-henderson/FreeTube)
 
 # FreeTube
 **FreeTube is currently hosted on my [Repl.it](https://freetube.cooltomato.repl.co/) account, and some of its features are only available when hosted on Repl.it.**
